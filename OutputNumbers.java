@@ -7,5 +7,5 @@ class OutputNumbers {
                 System.out.println(i);
             }    
         }
-     }
+    }
 }
